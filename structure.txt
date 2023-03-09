@@ -1,0 +1,8 @@
+A Computer Vision project built with Python & OpenCV project for detecting motion (An Motion Detector Alarm System)
+
+# LIBRARIES
+- OpenCV
+    run -> pip install opencv-python            # computer vision library
+
+- Imutils
+    run -> pip install imutils                  # for frame manipulation
